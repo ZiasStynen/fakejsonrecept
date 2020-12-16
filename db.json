@@ -1,0 +1,40 @@
+{
+      "events": [
+        {
+          "id":1,
+          "category": "Sterrenburgertjes",
+          "title": "Superschattige miniburgers voor kerst.",
+          "description": "bladerdeeg (diepvries, elk 10x10cm): 2 pakjes | kerstomaten: 3 | ketchup: 2 el | boter: 1kl | gehakt: 200g | sjalot: 1/2 | cayennepeper: snuifje | peper en zout"
+        },
+        {
+          "id":2,
+          "category": "Ricottaballetjes met tijm",
+          "title": "Ricottaballetjes gevuld met tijm",
+          "description": "ricotta: 400g | peterselie: 2el | room: 2el | bloem 5el | frituurolie | sjalotten: 2 | verse tijm: 2el | gedroogde basilicum: 1kl | nootmuskaat: snuifje | peper en zout"
+        },
+        {
+          "id":3,
+          "category": "Krabcocktail",
+          "title": "Feestelijk hapje",
+          "description": "krabvlees: 300g | sla | eieren (hardgekookt): 2 | Tomaten: 2 | cocktailsaus: 8el"
+        },
+        {
+          "id":4,
+          "category": "Zeebaars met zeevruchtenbouillon en gremolata",
+          "title": "Deze zeebaars met zeevruchtenbouillon en gremolata is het perfecte gerecht voor kerst!",
+          "description": "zeebaarsfilet: 4x | visbouillon: 450ml | venusschelpen: 300g | witte wijn: 300ml | sjalotten: 2 | boter | krieltjes: 300g | mosselen: 300g | kokkels: 300g | selder: 1takje | knoflook: 2 teentjes | olijfolie"
+        },
+        {
+          "id":5,
+          "category": "Gesmoorde ossenwang in rode wijn",
+          "title": "Blinkend uit de oven",
+          "description": "ossenwang: 2kg | selder: 1takje | bloem: 1el | rode wijn: 1fles | wortelen: 1bussel | ui: 1 | boter: 50g | knoflook: 2 teentjes | zout"
+        },
+        {
+          "id":6,
+          "category": "S'mores",
+          "title": "Chocolade, marshmallows en koekjes: met deze ingrediënten maak je het makkelijkste kerstdessert ever. Dippen maar!",
+          "description": "fondantchocolade: 200g | minimarshmallows: 200g | melk: 2el | koekjes: petit beurre"
+        }
+]
+}
